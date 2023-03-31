@@ -17,8 +17,6 @@ A HealthCare é um sistema que auxilia os brasileiros(as) a descobrirem se estã
 
 :small_blue_diamond: [Desenvolvedores/Contribuintes](#[Desenvolvedores/Contribuintes)
 
-:small_blue_diamond: [Licença](#[Licença)
-
 ## Visão Geral
 
 Visando facilitar e otimizar a anamnese que é feita manualmente nos hemocentros.
